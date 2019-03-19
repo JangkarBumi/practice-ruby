@@ -18,3 +18,9 @@ Todo
 5.Learn about test
 
 =end
+
+=begin
+
+Note : add .stickler.yml to the master branch
+
+=end
